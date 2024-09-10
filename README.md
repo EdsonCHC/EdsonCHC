@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">I'm Edson from El Salvador<br><br>- 🔭 I’m working as junior developer<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I do courses and mini projects</h3>
+<h3 align="left">I'm Edson from El Salvador<br><br>- 🔭 I’m working as junior developer<br>- 📚 I'm currently learning Nothing WAZAAAAA<br>- ⚡ In my free time I do courses and mini projects</h3>
 
 ###
 
